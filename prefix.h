@@ -1,0 +1,2 @@
+#define VR_INTERFACE
+#define VR_CALLTYPE
